@@ -100,5 +100,5 @@ If the AI call fails for any reason, the application shows a clear message and c
 
 ## Demo
 
-[▶️ Watch the project demo]
+▶️ Watch the project demo
 https://github.com/user-attachments/assets/d4f11823-404e-43dd-b77e-ad73f49c16be
