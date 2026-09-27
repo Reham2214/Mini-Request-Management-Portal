@@ -8,6 +8,7 @@ while the Reviewer can apply the appropriate next action based on the current st
 An AI-powered feature has also been added to suggest a summary, category, and priority to the Requester based on the request content.
 The goal was to build something that feels like a real internal tool. I focused on keeping the code clean, organized, and easy to follow.
 
+
 ## Technology Stack
 - ASP.NET Web Forms (.NET Framework 4.7.2)
 - C#
@@ -96,3 +97,8 @@ To use your own token:
 3- Replace the token value in both files:
 
 If the AI call fails for any reason, the application shows a clear message and continues working normally without AI suggestions.
+
+## Demo
+
+[▶️ Watch the project demo]
+https://github.com/user-attachments/assets/d4f11823-404e-43dd-b77e-ad73f49c16be
