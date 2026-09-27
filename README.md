@@ -1,7 +1,7 @@
 ﻿# Mini Request Management Portal
 
 ## Project Overview
-The Mini Request Management Portal was built as part of a required assessment for candidates in the MBC GDP program.
+The Mini Request Management Portal was built as part of a required assessment for candidates in the **MBC GDP** program.
 It is a web application that allows employees to create, edit, and track requests through a simple lifecycle. 
 It supports two main roles: the Requester and the Reviewer. The Requester has the ability to create, edit, and cancel requests,
 while the Reviewer can apply the appropriate next action based on the current status of the request.
